@@ -1,6 +1,8 @@
 ## Hi, I'm Manuel Villa! 👋🏼👨🏻‍💻 <img align="right" width="150" height="150" src="https://raw.githubusercontent.com/Manuvi03/Manuvi03/main/octocat.png" alt = "Literally me shaped like an octopus"></a>
  
 🔭I'm a 21-year-old Spanish software engineering student from the Complutense University of Madrid.<br>
+📚I'm really interesting in databases, front-end development and mobile applications.<br>
+💖💛💖 Currently, i'm improving my software skills to become in the best version of myself!.<br>
 
 
 ## 🌐 Socials:
