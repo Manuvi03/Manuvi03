@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭I am a 21-year-old Spanish software engineering student from the Complutense University of Madrid.<br>
+<h2>💫 Hi, I'm Manuel Villa! <img src="https://giphy.com/stickers/animal-crossing-ac-shep-VXderVbunnd2wKGX9Z"width="50"></h2>
+🔭I'm a 21-year-old Spanish software engineering student from the Complutense University of Madrid.<br>
 
 
 ## 🌐 Socials:
