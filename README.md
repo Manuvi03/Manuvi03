@@ -1,4 +1,5 @@
-<h2>💫 Hi, I'm Manuel Villa! <img src="https://giphy.com/stickers/animal-crossing-ac-shep-VXderVbunnd2wKGX9Z/giphy.gif"width="50"></h2>
+## Hi, I'm Manuel Villa! 👋🏼👨🏻‍💻 <img align="right" width="150" height="150" src="https://github.com/Manuvi03/Manuvi03/main/octocat.png" alt = "Literally me shaped like an octopus"></a>
+ 
 🔭I'm a 21-year-old Spanish software engineering student from the Complutense University of Madrid.<br>
 
 
